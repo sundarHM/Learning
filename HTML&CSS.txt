@@ -1,0 +1,16 @@
+Get the contents
+
+Get the Images
+
+Roughly layout the page
+
+
+
+(Sections on the site)
+- Header
+- Tagline
+- Projects
+- Badges
+- Articles
+- Skills
+- Footer

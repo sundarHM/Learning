@@ -1,0 +1,57 @@
+/*main.css*/
+
+html, body, h1, h2, h3, h4, h5, p, div,ul, ol, li {
+  padding: 0;
+  border: 0;
+  margin:0;
+  font: inherit;
+  font-size: 100%;
+  }
+
+h1{
+  font-family:"Helvetica Neue", Helvetica, sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+  }
+
+h2{
+  font-family:"Helvetica Neue", Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 100;
+  text-align: center;
+  color:#ffffff;
+  width: 700px;
+  margin: 0 auto;
+}
+h2 strong{
+  font-weight: 400;
+}
+.header{
+  background-color: #999999;
+}
+
+h3{
+  font-size: 28px;
+  font-weight: normal;
+  text-align: center;
+}
+}
+.tagline{
+  background-color: #000000;
+  padding: 20px 0 20px 0;
+}
+
+.projects{
+  width: 308px;
+  margin: 0 auto;
+}
+
+.projects ul{
+  list-style-type: none;
+  border-bottom: 1px;
+  }
+
+  .projects li{
+    margin-bottom:10px;
+    }
